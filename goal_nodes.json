@@ -1,0 +1,43 @@
+[
+    {
+        "label": "whipped cream",
+        "states": [
+            "whipped", "creamy"
+        ],
+        "ingredients": [],
+        "container": "mixing bowl"
+    },
+    {
+        "label": "greek salad",
+        "states": [
+            "mixed"
+        ],
+        "ingredients": ["black olive", "cucumber", "feta cheese", "green pepper", "lemon", "olive oil", 
+                        "onion", "oregano", "salt", "sweet pepper", "tomato"],
+        "container": "mixing bowl"
+    },
+    {
+        "label": "macaroni",
+        "states": [
+            "cooked"
+        ],
+        "ingredients": [],
+        "container": "pot"
+    },
+    {
+        "label": "sweet potato",
+        "states": [
+            "chopped"
+        ],
+        "ingredients": [],
+        "container": "cutting board"
+    },
+    {
+        "label": "ice",
+        "states": [
+            "crushed", "frozen"
+        ],
+        "ingredients": [],
+        "container": "drinking glass"
+    }
+]

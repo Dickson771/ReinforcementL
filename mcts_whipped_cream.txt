@@ -1,0 +1,34 @@
+//
+O	mixer
+S	off
+S	in	[mixing bowl]
+O	mixing bowl
+S	contains	{pudding}
+S	in	[mixer]
+M	detach
+O	mixer
+S	off
+O	mixing bowl
+S	contains	{pudding}
+//
+O	mixing bowl
+S	contains	{pudding,whipped cream}
+O	pudding
+S	mixed
+S	thick liquid
+S	contains	{condensed milk,cream cheese,milk,pudding mix,vanilla extract}
+S	in	[mixing bowl]
+O	whipped cream
+S	whipped
+S	creamy
+S	in	[mixing bowl]
+O	spatula
+M	stir
+O	mixing bowl
+S	contains	{pudding}
+O	pudding
+S	thick liquid
+S	mixed
+S	contains	{condensed milk,cream cheese,milk,pudding mix,vanilla extract,whipped cream}
+S	in	[mixing bowl]
+//
