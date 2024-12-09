@@ -1,0 +1,5 @@
+Deep Q-Learning Results:
+Successful mixes: 100/100
+Average time per successful mix: 0.01 seconds
+Final training reward: 2.00
+Best training reward: 2.01
